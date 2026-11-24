@@ -57,3 +57,6 @@ Projeto desenvolvido para fins de aprendizado e demonstração de conhecimentos 
 ### 3. Resultado da automação
 ![Resultado](imagens/resultado-automacao.png)
 
+### 4. Seleção da planilha
+![Seleção do arquivo](imagens/selecao-arquivo.png)
+
