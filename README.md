@@ -46,17 +46,17 @@ A solução pode ser adaptada para diferentes cenários empresariais, como:
 
 Projeto desenvolvido para fins de aprendizado e demonstração de conhecimentos em automação de processos utilizando VBA.
 
-## Demonstração do projeto
+##** Demonstração do projeto
 
 ### 1. Planilha de origem
-![Planilha Excel](imagens/planilha-exemplo.png)
+![Planilha Excel](images/planilha-exemplo.png)
 
 ### 2. Modelo Word
-![Modelo Word](imagens/modelo-word.png)
+![Modelo Word](images/modelo-word.png)
 
 ### 3. Resultado da automação
-![Resultado](imagens/resultado-automacao.png)
+![Resultado](images/resultado-automacao.png)
 
 ### 4. Seleção da planilha
-![Seleção do arquivo](imagens/selecao-arquivo.png)
+![Seleção do arquivo](images/selecao-arquivo.png)
 
